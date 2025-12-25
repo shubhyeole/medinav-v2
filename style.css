@@ -200,7 +200,7 @@ header{
   font-size:clamp(28px,6vw,44px);
   font-weight:800;
   background:linear-gradient(90deg,var(--accent-1),var(--accent-2));
-  -webkit-background-clip:text;
+  -webkit-background-clip :text;
   -webkit-text-fill-color:transparent;
   letter-spacing:-0.5px;
 }
